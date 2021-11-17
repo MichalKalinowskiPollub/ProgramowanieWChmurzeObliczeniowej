@@ -33,7 +33,7 @@ class IpTrackerHandler(http.server.SimpleHTTPRequestHandler):
         except:
             clientDateAndTime = "nie mozna uzyskac daty i godziny z ip dla prywatnego uzytku"
         # Otwieramy index.html i dynamicznie nadpisujemy jego tresc w zalesnoci od ip uzytkownika
-        file = open("../index.html", "w")
+        file = open("index.html", "w")
         file.write(f"""<!DOCTYPE html>
 <html>
 <body>
