@@ -38,7 +38,8 @@ Następnie wystarczy zpushować obraz do rejestru wskazanego przez jego nazwę l
 
 Po tych krokach nasz obraz powinnien zostać umieszczony na DockerHub.
 Obraz niniejszego zadania mozna znalesc na:
-https://hub.docker.com/repository/docker/michalkalinowskipollub/programowanie_w_chmurze_obliczeniowej/general
+https://hub.docker.com/r/michalkalinowskipollub/programowanie_w_chmurze_obliczeniowej
+
 A sciagnac poprzez: 
 
 ```docker pull michalkalinowskipollub/programowanie_w_chmurze_obliczeniowej:zad1```
