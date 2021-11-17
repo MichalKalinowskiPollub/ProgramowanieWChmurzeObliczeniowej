@@ -40,6 +40,7 @@ Po tych krokach nasz obraz powinnien zostać umieszczony na DockerHub.
 Obraz niniejszego zadania mozna znalesc na:
 https://hub.docker.com/repository/docker/michalkalinowskipollub/programowanie_w_chmurze_obliczeniowej/general
 A sciagnac poprzez: 
+
 ```docker pull michalkalinowskipollub/programowanie_w_chmurze_obliczeniowej:zad1```
 
 Screenshoty z podpunktow znajduja sie w folderze sprawozdanie1/screenshoty
