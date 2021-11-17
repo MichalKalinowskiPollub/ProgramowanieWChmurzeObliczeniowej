@@ -22,7 +22,7 @@ d) Żeby sprawdzić ile warstw posiada zbudowany obraz można użyć polecenia:
 # Zadanie 4
 W celu zbudowania obrazu wykorzystujac bezposredni link do Dockefile nalezy wykonac przykladowo polecenie:
 
-```  docker build https://github.com/docker/rootfs.git#container:docker ```
+```  docker build https://github.com/MichalKalinowskiPollub/ProgramowanieWChmurzeObliczeniowej.git#main:sprawozdanie1 ```
 
 Po zbudowaniu obrazu, przeniesienie go na konto DockerHub, jest możliwe po uprzednim stworzeniu na nim konta i repozytorium. Po tym kroku wystarczy odpowiednio zatagować swoj obraz:
 
